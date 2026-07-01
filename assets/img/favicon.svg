@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HA">
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17171E"/><stop offset="1" stop-color="#0A0A0E"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#t)" stroke="#2A2A36" stroke-width="1"/>
+  <rect x="18" y="16" width="7" height="32" rx="1.5" fill="#F3F2F0"/>
+  <rect x="39" y="16" width="7" height="32" rx="1.5" fill="#F3F2F0"/>
+  <rect x="18" y="28.5" width="28" height="7" rx="1.5" fill="#5D8BFF"/>
+</svg>
